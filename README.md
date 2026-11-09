@@ -1,33 +1,35 @@
 # Charles Ongaya Oneka
 
-**Principal Engineer** — 15+ years building enterprise web platforms, AI-integrated products, and cloud infrastructure. Founder of **agencyhut.io** (launching) and retained senior engineer for **2 SOLID Advanced Engineering**. Calgary, AB · Remote-first.
+**Principal Engineer** — enterprise systems, agentic-AI infrastructure, kernel-first architectures. 15+ years building the platforms other engineers build on. Founder of **agencyhut.io**; principal engineer at **2SOLID AI**. Calgary, AB · Remote-first · Worldwide.
+
+Most of what I build is private by design — persistent memory architectures, multi-agent orchestration, applied-AI platforms in development. This profile is the public surface; the depth is the product.
 
 ---
 
-## Selected work
+## Selected systems
 
-| Project | What it is |
+| System | What it is |
 |---|---|
-| **agencyhut.io** *(launching)* | White-label software, web & AI development partner for agencies — API-backed delivery platform (ticketing, snapshots, approvals, billing, dashboards, messaging), WordPress plugin suite, marketing site. |
-| **StarBridge Enterprise** *(private)* | API-backed delivery platform on a kernel-first plugin architecture — registry, capability contracts, lifecycle, hash-chained audit. ~60 plugins. **Alpha / WIP — access by agreement.** |
-| **[Unclaimed Entitlements](https://unclaimedentitlements.com)** | Public asset-recovery platform — searchable catalog of unclaimed property records, ~95M-row ingestion pipeline. **Live in production.** |
-| **[iWorkVeryHard Screening](https://screening.iworkveryhard.com)** | Intake assessment platform — candidate flow, keyed admin review, persistent storage. **Live.** |
-| **[2 SOLID Advanced Engineering](https://2solidae.com)** | Retained senior engineer (2023–present) — advanced public platform: WordPress FSE, custom Gutenberg blocks, D3/canvas visuals, GCP deployment. |
+| **[agencyhut.io](https://agencyhut.io)** | White-label development OS for agencies — embedded engineering department they resell as their own. Delivery platform, WordPress plugin suite, deterministic auditable pipeline. **Live.** |
+| **StarBridge Enterprise** *(private)* | Kernel-first enterprise platform — ~60 plugins, capability contracts, lifecycle state machine, hash-chained audit sink, ~100K LOC. Built through agentic LLM workflows: agents write, audit, and verify; humans hold the boundary. **Alpha — access by agreement.** |
+| **[Unclaimed Entitlements](https://unclaimedentitlements.com)** | Public asset-recovery platform — searchable catalog of unclaimed property records; custom pipeline processing ~95M rows into production search. **Live.** |
+| **[iWorkVeryHard Screening](https://screening.iworkveryhard.com)** | Intake assessment platform — candidate flow, keyed admin review, persistent storage, grading hooks. **Live.** |
+| **[2SOLID AI](https://2solidae.com)** | Applied-AI engineering firm — context-resident agent memory, coordinated agent workforces, verified AI. Principal engineer since 2023; architected their advanced public platform. |
 
-## Operating principles
+## How the work gets built
 
-- **Accountable** — ownership end to end: schedules, production fixes, stakeholder communication
-- **Evidence** — launch tests over static analysis; a task isn't done until the running system proves it
-- **AI-augmented** — LLM agents do the volume under scoped permissions; humans hold the review boundary
+- **Kernel-first** — small trusted cores, capability contracts, everything else a plugin behind defined interfaces
+- **Agentic** — LLM agents operate under scoped permissions and declared files; humans hold the review boundary on kernel and security paths
+- **Evidence** — migrations, tamper-evident audit chains, launch tests against the running system. Done means production proves it
 
 ## Stack
 
-`PHP` `Python` `TypeScript` `C#` `C++` `SQL` · `WordPress FSE` `Gutenberg` `React` `Node` `gRPC` · `AWS` `GCP` `Azure` `Docker` `Kubernetes` · `PostgreSQL` `Redis` `RabbitMQ` · `LLM / agentic systems` · `Figma` `Adobe XD`
+`Linux` `Docker` `Kubernetes` `CI/CD` `gRPC` · `PHP` `Python` `TypeScript` `Go` `C#` `C++` `SQL` · `PostgreSQL` `Redis` `RabbitMQ` · `AWS` `GCP` `Azure` · `LLM integration` `agent orchestration` `memory architectures` · `WordPress FSE` `React` `Node` · `Figma` motion UI
 
 ---
 
-Available for a limited number of **annual retainer engagements** — senior platform ownership, AI-augmented delivery, cloud production support.
+Available for a limited number of **annual retainer engagements** — platform ownership, agentic-AI infrastructure, production cloud operations.
 
-📍 Calgary, AB · Remote-first · [ongaya.design@gmail.com](mailto:ongaya.design@gmail.com) · +1 (587) 889-2730
+📍 Calgary, AB · Remote-first · Worldwide · [ongaya.design@gmail.com](mailto:ongaya.design@gmail.com) · +1 (587) 889-2730
 
 [Portfolio →](https://ongayadesign.github.io) · [Company →](https://2solidae.com)
