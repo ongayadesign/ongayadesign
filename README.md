@@ -1,31 +1,33 @@
-# Charles Oneka
+# Charles Ongaya Oneka
 
-**Kernel-platform engineer** — I design small trusted cores and grow everything else as plugins behind capability contracts, then build the agentic workflows that keep the whole thing honest.
-
-**2 SOLID AE** — advanced technology studio · [2solidae.com](https://2solidae.com)
+**Principal Engineer** — 15+ years building enterprise web platforms, AI-integrated products, and cloud infrastructure. Founder of **agencyhut.io** (launching) and retained senior engineer for **2 SOLID Advanced Engineering**. Calgary, AB · Remote-first.
 
 ---
 
-## Public work
+## Selected work
 
 | Project | What it is |
 |---|---|
-| **[Unclaimed Entitlements](https://unclaimedentitlements.com)** | Public asset-recovery platform — searchable catalog of unclaimed property records with public search and a high-volume ingestion pipeline. **Live in production.** |
+| **agencyhut.io** *(launching)* | White-label software, web & AI development partner for agencies — API-backed delivery platform (ticketing, snapshots, approvals, billing, dashboards, messaging), WordPress plugin suite, marketing site. |
+| **StarBridge Enterprise** *(private)* | API-backed delivery platform on a kernel-first plugin architecture — registry, capability contracts, lifecycle, hash-chained audit. ~60 plugins. **Alpha / WIP — access by agreement.** |
+| **[Unclaimed Entitlements](https://unclaimedentitlements.com)** | Public asset-recovery platform — searchable catalog of unclaimed property records, ~95M-row ingestion pipeline. **Live in production.** |
 | **[iWorkVeryHard Screening](https://screening.iworkveryhard.com)** | Intake assessment platform — candidate flow, keyed admin review, persistent storage. **Live.** |
-| **StarBridge Enterprise** | Kernel-first plugin platform for enterprise management — ~60 plugins behind capability contracts, lifecycle state machine, hash-chained audit sink. **Alpha / WIP — private, access by agreement.** |
+| **[2 SOLID Advanced Engineering](https://2solidae.com)** | Retained senior engineer (2023–present) — advanced public platform: WordPress FSE, custom Gutenberg blocks, D3/canvas visuals, GCP deployment. |
 
 ## Operating principles
 
-- **Kernel-first** — minimal trusted core; plugins reach the world only through defined contracts
-- **Audit-grade** — migrations for every schema change, tamper-evident audit events, launch tests over static analysis
-- **Agentic** — LLM agents do the volume under scoped permissions; humans hold the review boundary. The git history *is* the workflow
+- **Accountable** — ownership end to end: schedules, production fixes, stakeholder communication
+- **Evidence** — launch tests over static analysis; a task isn't done until the running system proves it
+- **AI-augmented** — LLM agents do the volume under scoped permissions; humans hold the review boundary
 
 ## Stack
 
-`Python` `FastAPI` `TypeScript` `React` `Go` `PostgreSQL` `Redis` `RabbitMQ` `Docker` `CI/CD` `Linux`
+`PHP` `Python` `TypeScript` `C#` `C++` `SQL` · `WordPress FSE` `Gutenberg` `React` `Node` `gRPC` · `AWS` `GCP` `Azure` `Docker` `Kubernetes` · `PostgreSQL` `Redis` `RabbitMQ` · `LLM / agentic systems` · `Figma` `Adobe XD`
 
 ---
 
-Most of what I'm building stays private — additional kernel systems, agent orchestration, and applied-AI platforms are in private development. Serious inquiries: [ongaya.design@gmail.com](mailto:ongaya.design@gmail.com)
+Available for a limited number of **annual retainer engagements** — senior platform ownership, AI-augmented delivery, cloud production support.
+
+📍 Calgary, AB · Remote-first · [ongaya.design@gmail.com](mailto:ongaya.design@gmail.com) · +1 (587) 889-2730
 
 [Portfolio →](https://ongayadesign.github.io) · [Company →](https://2solidae.com)
