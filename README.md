@@ -6,13 +6,13 @@
 
 ---
 
-## Selected work
+## Public work
 
 | Project | What it is |
 |---|---|
-| **[StarBridge Enterprise](https://github.com/ongayadesign/starbridge-enterprise)** *(private)* | Kernel-first plugin platform for enterprise management — construction, investor finance, property verticals. ~60 plugins, capability contracts, lifecycle state machine, hash-chained audit sink. **Alpha / WIP** — actively developed. |
 | **[Unclaimed Entitlements](https://unclaimedentitlements.com)** | Public asset-recovery platform — searchable catalog of unclaimed property records with public search and a high-volume ingestion pipeline. **Live in production.** |
 | **[iWorkVeryHard Screening](https://screening.iworkveryhard.com)** | Intake assessment platform — candidate flow, keyed admin review, persistent storage. **Live.** |
+| **StarBridge Enterprise** | Kernel-first plugin platform for enterprise management — ~60 plugins behind capability contracts, lifecycle state machine, hash-chained audit sink. **Alpha / WIP — private, access by agreement.** |
 
 ## Operating principles
 
@@ -26,4 +26,6 @@
 
 ---
 
-[Portfolio →](https://ongayadesign.github.io) · [Email](mailto:ongaya.design@gmail.com) · [Company →](https://2solidae.com)
+Most of what I'm building stays private — additional kernel systems, agent orchestration, and applied-AI platforms are in private development. Serious inquiries: [ongaya.design@gmail.com](mailto:ongaya.design@gmail.com)
+
+[Portfolio →](https://ongayadesign.github.io) · [Company →](https://2solidae.com)
