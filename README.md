@@ -28,6 +28,6 @@ Most of what I build is private by design — persistent memory architectures, m
 
 Available for a limited number of **annual retainer engagements** — platform ownership, agentic-AI infrastructure, production cloud operations.
 
-📍 Calgary, AB · Remote-first · Worldwide · [ongaya.design@gmail.com](mailto:ongaya.design@gmail.com) · +1 (825) 488-7355
+📍 Calgary, AB · Remote-first · Worldwide · [ongaya.design@gmail.com](mailto:ongaya.design@gmail.com)
 
 [Portfolio →](https://ongayadesign.github.io) · [Company →](https://2solidae.com)
